@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Frontend is ignored separately if there's a gitignore inside it, but we can add:
+frontend/node_modules/
+frontend/dist/
